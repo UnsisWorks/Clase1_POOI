@@ -6,6 +6,8 @@ public class Persona {
 	String curp;
 	int age;
 
+	static int numPeople = 0;
+
 	public void Persona(String name, String curp, int age) {
 		this.name = name;
 		this.curp = curp;
