@@ -7,5 +7,8 @@ public class Persona () {
 
 	// Properties
 	String nombre;
+	Stirng curp;
+	int edad;
+	
 
 }
