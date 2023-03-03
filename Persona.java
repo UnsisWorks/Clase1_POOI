@@ -1,16 +1,15 @@
 // Autor: Galicia Cordova Elietzer Jared
 public class Persona () {
 
-	public void Persona(String nombre, String curp, int edad) {
-		this.nombre = nombre;
+	public void Persona(String name, String curp, int age) {
+		this.name = name;
 		this.curp = curp;
-		this.edad = edad;
+		this.age = age;
 	}
 
 	// Properties
-	String nombre;
+	String name;
 	Stirng curp;
-	int edad;
-
+	int age;
 
 }
