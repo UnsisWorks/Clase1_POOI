@@ -12,7 +12,7 @@ public class Persona {
 		this.age = age;
 	}
 
-	// Metodos seter
+	// Metodos setter for name 
 	public void setName(String name) {
 		this.name = name;
 	}
