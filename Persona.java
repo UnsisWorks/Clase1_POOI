@@ -4,6 +4,8 @@ public class Persona () {
 	public void Persona() {
 
 	}
-	
+
+	// Properties
+	String nombre;
 
 }
