@@ -17,4 +17,9 @@ public class Persona {
 		this.name = name;
 	}
 
+	// Metodos getter for name 
+	public String getName() {
+		return name;
+	}
+
 }
