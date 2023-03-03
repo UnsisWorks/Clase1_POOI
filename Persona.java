@@ -12,6 +12,7 @@ public class Persona {
 		this.age = age;
 	}
 
+	// Metodos seter
 	public void setName(String name) {
 		this.name = name;
 	}
