@@ -12,6 +12,7 @@ public class Persona {
 		this.name = name;
 		this.curp = curp;
 		this.age = age;
+		this.numPeople++;
 	}
 
 	// Metodos setter for name 
