@@ -24,5 +24,9 @@ public class Persona {
 	public String getName() {
 		return name;
 	}
+	// Metodos getter for number the people 
+	public int getNumberPeople() {
+		return numPeople;
+	}
 
 }
